@@ -1293,7 +1293,27 @@
 	)
 	(wire
 		(pts
-			(xy 508 171.45) (xy 514.35 171.45)
+			(xy 552.45 250.19) (xy 554.99 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0984c39e-2770-4e5c-9f58-130fef765574")
+	)
+	(wire
+		(pts
+			(xy 552.45 242.57) (xy 554.99 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1233003c-deb1-4043-ba8a-8ef4bf123577")
+	)
+	(wire
+		(pts
+			(xy 511.81 171.45) (xy 514.35 171.45)
 		)
 		(stroke
 			(width 0)
@@ -1303,7 +1323,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 161.29) (xy 514.35 161.29)
+			(xy 511.81 161.29) (xy 514.35 161.29)
 		)
 		(stroke
 			(width 0)
@@ -1313,7 +1333,27 @@
 	)
 	(wire
 		(pts
-			(xy 508 186.69) (xy 514.35 186.69)
+			(xy 552.45 234.95) (xy 554.99 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "236b1b49-7543-4c96-8cb0-b2323f66bb8c")
+	)
+	(wire
+		(pts
+			(xy 552.45 240.03) (xy 554.99 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "261013ce-5cb0-447a-a273-1373f883f049")
+	)
+	(wire
+		(pts
+			(xy 511.81 186.69) (xy 514.35 186.69)
 		)
 		(stroke
 			(width 0)
@@ -1323,7 +1363,17 @@
 	)
 	(wire
 		(pts
-			(xy 508 173.99) (xy 514.35 173.99)
+			(xy 552.45 257.81) (xy 554.99 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "346589e2-9030-41fd-8b8e-3c840a61019e")
+	)
+	(wire
+		(pts
+			(xy 511.81 173.99) (xy 514.35 173.99)
 		)
 		(stroke
 			(width 0)
@@ -1333,7 +1383,17 @@
 	)
 	(wire
 		(pts
-			(xy 508 168.91) (xy 514.35 168.91)
+			(xy 552.45 217.17) (xy 554.99 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "449c3a0a-a3ca-47ac-8091-56a31f89a25d")
+	)
+	(wire
+		(pts
+			(xy 511.81 168.91) (xy 514.35 168.91)
 		)
 		(stroke
 			(width 0)
@@ -1343,7 +1403,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 153.67) (xy 514.35 153.67)
+			(xy 511.81 153.67) (xy 514.35 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1353,7 +1413,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 189.23) (xy 514.35 189.23)
+			(xy 511.81 189.23) (xy 514.35 189.23)
 		)
 		(stroke
 			(width 0)
@@ -1363,7 +1423,77 @@
 	)
 	(wire
 		(pts
-			(xy 508 199.39) (xy 514.35 199.39)
+			(xy 552.45 232.41) (xy 554.99 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ac48fb7-7690-4d62-9fc4-c5a5c2ec6f32")
+	)
+	(wire
+		(pts
+			(xy 552.45 260.35) (xy 554.99 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63d49d9b-a355-40ed-9c57-9d41990670da")
+	)
+	(wire
+		(pts
+			(xy 552.45 214.63) (xy 554.99 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb5b8c0-7af8-4482-9301-6c9a52f57109")
+	)
+	(wire
+		(pts
+			(xy 552.45 224.79) (xy 554.99 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7238241d-8976-40f7-bec9-c50758bbe89b")
+	)
+	(wire
+		(pts
+			(xy 552.45 252.73) (xy 554.99 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d0223af-b776-4788-bbb4-770bfb51d710")
+	)
+	(wire
+		(pts
+			(xy 552.45 227.33) (xy 554.99 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83d20fe4-f17c-4193-ba32-78873c05635e")
+	)
+	(wire
+		(pts
+			(xy 552.45 219.71) (xy 554.99 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8720c4ab-0b2f-470c-abfe-8aba7dec5c17")
+	)
+	(wire
+		(pts
+			(xy 511.81 199.39) (xy 514.35 199.39)
 		)
 		(stroke
 			(width 0)
@@ -1373,7 +1503,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 179.07) (xy 514.35 179.07)
+			(xy 511.81 179.07) (xy 514.35 179.07)
 		)
 		(stroke
 			(width 0)
@@ -1383,7 +1513,17 @@
 	)
 	(wire
 		(pts
-			(xy 508 184.15) (xy 514.35 184.15)
+			(xy 552.45 255.27) (xy 554.99 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9410ec1c-a462-43e6-805b-18d57c8898ee")
+	)
+	(wire
+		(pts
+			(xy 511.81 184.15) (xy 514.35 184.15)
 		)
 		(stroke
 			(width 0)
@@ -1393,7 +1533,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 201.93) (xy 514.35 201.93)
+			(xy 511.81 201.93) (xy 514.35 201.93)
 		)
 		(stroke
 			(width 0)
@@ -1403,7 +1543,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 158.75) (xy 514.35 158.75)
+			(xy 511.81 158.75) (xy 514.35 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1413,7 +1553,17 @@
 	)
 	(wire
 		(pts
-			(xy 508 181.61) (xy 514.35 181.61)
+			(xy 552.45 237.49) (xy 554.99 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2432faa-7a45-4ba8-a89a-aae1aa5eaae8")
+	)
+	(wire
+		(pts
+			(xy 511.81 181.61) (xy 514.35 181.61)
 		)
 		(stroke
 			(width 0)
@@ -1423,7 +1573,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 194.31) (xy 514.35 194.31)
+			(xy 511.81 194.31) (xy 514.35 194.31)
 		)
 		(stroke
 			(width 0)
@@ -1433,7 +1583,27 @@
 	)
 	(wire
 		(pts
-			(xy 508 156.21) (xy 514.35 156.21)
+			(xy 552.45 229.87) (xy 554.99 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca9aad55-69f8-4e2a-ab9f-e7daf070a39d")
+	)
+	(wire
+		(pts
+			(xy 552.45 222.25) (xy 554.99 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2c1f140-70fa-4d4a-bf64-4fe071903f5b")
+	)
+	(wire
+		(pts
+			(xy 511.81 156.21) (xy 514.35 156.21)
 		)
 		(stroke
 			(width 0)
@@ -1443,7 +1613,27 @@
 	)
 	(wire
 		(pts
-			(xy 508 191.77) (xy 514.35 191.77)
+			(xy 552.45 262.89) (xy 554.99 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dae2e14c-0d7e-4643-81e7-17145cc4af60")
+	)
+	(wire
+		(pts
+			(xy 552.45 245.11) (xy 554.99 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddc0c7be-22b1-4702-b02f-ef355d346bf3")
+	)
+	(wire
+		(pts
+			(xy 511.81 191.77) (xy 514.35 191.77)
 		)
 		(stroke
 			(width 0)
@@ -1453,7 +1643,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 196.85) (xy 514.35 196.85)
+			(xy 511.81 196.85) (xy 514.35 196.85)
 		)
 		(stroke
 			(width 0)
@@ -1463,7 +1653,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 166.37) (xy 514.35 166.37)
+			(xy 511.81 166.37) (xy 514.35 166.37)
 		)
 		(stroke
 			(width 0)
@@ -1473,7 +1663,17 @@
 	)
 	(wire
 		(pts
-			(xy 508 163.83) (xy 514.35 163.83)
+			(xy 552.45 247.65) (xy 554.99 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee33a64f-1e75-4b98-af8b-b09b13cdfe24")
+	)
+	(wire
+		(pts
+			(xy 511.81 163.83) (xy 514.35 163.83)
 		)
 		(stroke
 			(width 0)
@@ -1483,7 +1683,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 176.53) (xy 514.35 176.53)
+			(xy 511.81 176.53) (xy 514.35 176.53)
 		)
 		(stroke
 			(width 0)
@@ -1493,15 +1693,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 166.37 180)
+		(at 560.07 247.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0f2f25ff-dae7-4e67-9829-73011ffff7c3")
-		(property "Reference" "gpio16_1"
-			(at 496.824 166.624 0)
+		(uuid "02b0111f-982e-495f-9a89-e78e3ae8796c")
+		(property "Reference" "gpio17_2"
+			(at 566.166 247.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1509,7 +1709,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 162.56 0)
+			(at 560.07 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1518,7 +1718,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 166.37 0)
+			(at 560.07 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1527,7 +1727,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 166.37 0)
+			(at 560.07 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1536,7 +1736,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 166.37 0)
+			(at 560.07 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de5663e1-e66c-473c-a54f-bd483bd44b8c")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio17_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 166.37 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f2f25ff-dae7-4e67-9829-73011ffff7c3")
+		(property "Reference" "gpio16_1"
+			(at 500.634 166.624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1558,7 +1823,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 179.07 180)
+		(at 506.73 179.07 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1566,7 +1831,7 @@
 		(dnp no)
 		(uuid "0fa77f6b-ad96-4bf1-a833-a6b1a139ecdf")
 		(property "Reference" "gpio21_1"
-			(at 496.824 179.07 0)
+			(at 500.634 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1574,7 +1839,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 175.26 0)
+			(at 506.73 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1583,7 +1848,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 179.07 0)
+			(at 506.73 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1592,7 +1857,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 179.07 0)
+			(at 506.73 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1601,7 +1866,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 179.07 0)
+			(at 506.73 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,15 +1888,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 171.45 180)
+		(at 560.07 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4064a5f2-acd7-4762-8a6e-b2a36e6ec29c")
-		(property "Reference" "gpio5_1"
-			(at 497.332 171.704 0)
+		(uuid "31b68594-b2c8-4032-b8e4-31f8091b3fb4")
+		(property "Reference" "pin_x8"
+			(at 564.896 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1639,7 +1904,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 167.64 0)
+			(at 560.07 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,7 +1913,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 171.45 0)
+			(at 560.07 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1657,7 +1922,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 171.45 0)
+			(at 560.07 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1666,7 +1931,202 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 171.45 0)
+			(at 560.07 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03806076-ed8c-4aaf-81db-8fed421fe488")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "pin_x8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 262.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3801fb7f-5d80-4d89-837f-3fcf9477db68")
+		(property "Reference" "3v3_2"
+			(at 564.388 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48e8cdc2-4656-4085-b310-5a6addcc4949")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "3v3_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b941bcd-53e1-4972-83bd-36e9b64f64ec")
+		(property "Reference" "gpio21_2"
+			(at 566.166 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18b93b78-b04b-415b-a9c9-54e6ffd04935")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio21_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 171.45 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4064a5f2-acd7-4762-8a6e-b2a36e6ec29c")
+		(property "Reference" "gpio5_1"
+			(at 501.142 171.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1688,7 +2148,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 184.15 180)
+		(at 506.73 184.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1696,7 +2156,7 @@
 		(dnp no)
 		(uuid "4256c56d-86c0-4302-adfd-8a3b35b5d1f5")
 		(property "Reference" "gpio1_1"
-			(at 497.586 184.15 0)
+			(at 501.396 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1704,7 +2164,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 180.34 0)
+			(at 506.73 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1713,7 +2173,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 184.15 0)
+			(at 506.73 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1722,7 +2182,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 184.15 0)
+			(at 506.73 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1731,7 +2191,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 184.15 0)
+			(at 506.73 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1753,7 +2213,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 153.67 180)
+		(at 506.73 153.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1761,7 +2221,7 @@
 		(dnp no)
 		(uuid "42ceed93-dd36-4922-9277-3de96f2fcd59")
 		(property "Reference" "3v3_1"
-			(at 498.602 153.67 0)
+			(at 502.412 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1769,7 +2229,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 149.86 0)
+			(at 506.73 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1778,7 +2238,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 153.67 0)
+			(at 506.73 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,7 +2247,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 153.67 0)
+			(at 506.73 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1796,7 +2256,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 153.67 0)
+			(at 506.73 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1818,7 +2278,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 186.69 180)
+		(at 506.73 186.69 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1826,7 +2286,7 @@
 		(dnp no)
 		(uuid "453d1fd6-6c77-47b3-9694-8213d672b6a7")
 		(property "Reference" "gpio22_1"
-			(at 497.078 186.69 0)
+			(at 500.888 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1834,7 +2294,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 182.88 0)
+			(at 506.73 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1843,7 +2303,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 186.69 0)
+			(at 506.73 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1852,7 +2312,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 186.69 0)
+			(at 506.73 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1861,7 +2321,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 186.69 0)
+			(at 506.73 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1883,7 +2343,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 194.31 180)
+		(at 506.73 194.31 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1891,7 +2351,7 @@
 		(dnp no)
 		(uuid "535ebbf0-8d21-4e86-ba7a-2aedaf1c0c2d")
 		(property "Reference" "pin_x2"
-			(at 498.094 194.056 0)
+			(at 501.904 194.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1899,7 +2359,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 190.5 0)
+			(at 506.73 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1908,7 +2368,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 194.31 0)
+			(at 506.73 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1917,7 +2377,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 194.31 0)
+			(at 506.73 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1926,7 +2386,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 194.31 0)
+			(at 506.73 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1948,15 +2408,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 201.93 180)
+		(at 560.07 260.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "683a03a9-e841-43f0-96b1-e26146d93537")
-		(property "Reference" "pin_x5"
-			(at 498.094 201.676 0)
+		(uuid "6191d9e3-95cd-43bc-bfb2-c80a6a64eaf9")
+		(property "Reference" "gnd1_2"
+			(at 565.15 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1964,7 +2424,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 198.12 0)
+			(at 560.07 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +2433,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 201.93 0)
+			(at 560.07 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +2442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 201.93 0)
+			(at 560.07 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1991,7 +2451,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 201.93 0)
+			(at 560.07 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7dfe324-6484-4dde-9336-88f9bd63c4e7")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gnd1_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 201.93 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "683a03a9-e841-43f0-96b1-e26146d93537")
+		(property "Reference" "pin_x5"
+			(at 501.904 201.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,15 +2538,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 196.85 180)
+		(at 560.07 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "754a560a-24aa-47a5-a84e-c71f93bd469c")
-		(property "Reference" "pin_x3"
-			(at 498.094 196.596 0)
+		(uuid "690a53fe-8b3d-40cf-89ed-cabffcdf9903")
+		(property "Reference" "gpio16_2"
+			(at 566.166 249.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2029,7 +2554,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 193.04 0)
+			(at 560.07 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2563,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 196.85 0)
+			(at 560.07 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2047,7 +2572,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 196.85 0)
+			(at 560.07 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2056,7 +2581,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 196.85 0)
+			(at 560.07 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f4894f91-12c3-49eb-909e-bae05954f988")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio16_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 196.85 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "754a560a-24aa-47a5-a84e-c71f93bd469c")
+		(property "Reference" "pin_x3"
+			(at 501.904 196.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2078,7 +2668,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 163.83 180)
+		(at 506.73 163.83 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2086,7 +2676,7 @@
 		(dnp no)
 		(uuid "83a85ad7-0d8a-4df8-aac1-71d7458d2ff2")
 		(property "Reference" "gpio4_1"
-			(at 497.586 164.084 0)
+			(at 501.396 164.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2094,7 +2684,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 160.02 0)
+			(at 506.73 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2103,7 +2693,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 163.83 0)
+			(at 506.73 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2112,7 +2702,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 163.83 0)
+			(at 506.73 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2121,7 +2711,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 163.83 0)
+			(at 506.73 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2143,15 +2733,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 161.29 180)
+		(at 560.07 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8b2c3007-9faf-42e5-ae05-ddf5e0a95853")
-		(property "Reference" "gpio2_1"
-			(at 497.586 161.544 0)
+		(uuid "86a86555-be49-49dc-b954-9802ce53a336")
+		(property "Reference" "gpio23_2"
+			(at 566.166 227.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2159,7 +2749,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 157.48 0)
+			(at 560.07 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2168,7 +2758,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 161.29 0)
+			(at 560.07 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2177,7 +2767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 161.29 0)
+			(at 560.07 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2186,7 +2776,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 161.29 0)
+			(at 560.07 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "631f5b11-7127-4bde-a9a5-5d250aeb9342")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio23_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 161.29 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b2c3007-9faf-42e5-ae05-ddf5e0a95853")
+		(property "Reference" "gpio2_1"
+			(at 501.396 161.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2201,6 +2856,136 @@
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "gpio2_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 214.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ed87392-fe79-4414-9939-b94e9ee95f2f")
+		(property "Reference" "pin_x10"
+			(at 565.658 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c649c65a-2cff-4b90-9f2f-32e469acae19")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "pin_x10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95031b0a-9f51-4a07-8093-e05a02782cc8")
+		(property "Reference" "gpio1_2"
+			(at 565.658 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd8d6140-c86a-4d6d-9ae4-55ae0ef83e1d")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio1_2")
 					(unit 1)
 				)
 			)
@@ -2332,7 +3117,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 168.91 180)
+		(at 506.73 168.91 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2340,7 +3125,7 @@
 		(dnp no)
 		(uuid "a8e0ba2c-c454-4088-b237-0a47b5d71cd6")
 		(property "Reference" "gpio17_1"
-			(at 496.824 169.164 0)
+			(at 500.634 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2348,7 +3133,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 165.1 0)
+			(at 506.73 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2357,7 +3142,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 168.91 0)
+			(at 506.73 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2366,7 +3151,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 168.91 0)
+			(at 506.73 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2375,7 +3160,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 168.91 0)
+			(at 506.73 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,15 +3182,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 176.53 180)
+		(at 560.07 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b151920a-abdc-4089-b8fb-9a7ce14f672a")
-		(property "Reference" "gpio19_1"
-			(at 496.824 176.784 0)
+		(uuid "add14b49-25e1-4250-91a0-63eacc3cffbf")
+		(property "Reference" "gpio3_2"
+			(at 565.658 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2413,7 +3198,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 172.72 0)
+			(at 560.07 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2422,7 +3207,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 176.53 0)
+			(at 560.07 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2431,7 +3216,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 176.53 0)
+			(at 560.07 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2440,7 +3225,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 176.53 0)
+			(at 560.07 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "530d7f88-b1fe-4e5b-9a66-6c8bf031e9ef")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio3_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 176.53 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b151920a-abdc-4089-b8fb-9a7ce14f672a")
+		(property "Reference" "gpio19_1"
+			(at 500.634 176.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2462,7 +3312,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 181.61 180)
+		(at 506.73 181.61 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2470,7 +3320,7 @@
 		(dnp no)
 		(uuid "b225f68c-319f-4f43-a668-af142b79aae9")
 		(property "Reference" "gpio3_1"
-			(at 497.586 181.61 0)
+			(at 501.396 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2478,7 +3328,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 177.8 0)
+			(at 506.73 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2487,7 +3337,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 181.61 0)
+			(at 506.73 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +3346,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 181.61 0)
+			(at 506.73 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +3355,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 181.61 0)
+			(at 506.73 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2527,7 +3377,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 158.75 180)
+		(at 506.73 158.75 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2535,7 +3385,7 @@
 		(dnp no)
 		(uuid "b3693a62-56d5-4225-af95-274077fbfaab")
 		(property "Reference" "gpio15_1"
-			(at 496.824 159.004 0)
+			(at 500.634 159.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2543,7 +3393,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 154.94 0)
+			(at 506.73 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2552,7 +3402,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 158.75 0)
+			(at 506.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2561,7 +3411,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 158.75 0)
+			(at 506.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2570,7 +3420,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 158.75 0)
+			(at 506.73 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,15 +3442,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 156.21 180)
+		(at 560.07 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "bda32ce3-1491-4f09-8031-aecdd40f906f")
-		(property "Reference" "gnd1_1"
-			(at 497.84 156.21 0)
+		(uuid "b42f55fa-3a8e-4162-b5e6-42b3c7166484")
+		(property "Reference" "gpio22_2"
+			(at 566.166 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +3458,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 152.4 0)
+			(at 560.07 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,7 +3467,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 156.21 0)
+			(at 560.07 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +3476,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 156.21 0)
+			(at 560.07 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,7 +3485,72 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 156.21 0)
+			(at 560.07 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4271da24-33f0-4cb9-911d-cb586ceabde0")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio22_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 156.21 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bda32ce3-1491-4f09-8031-aecdd40f906f")
+		(property "Reference" "gnd1_1"
+			(at 501.65 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2657,15 +3572,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 189.23 180)
+		(at 560.07 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "dae68609-d329-481b-88cc-d534afbbe830")
-		(property "Reference" "gpio23_1"
-			(at 497.078 189.484 0)
+		(uuid "bef1f240-ec8d-4639-a041-1c2fbe62c6e3")
+		(property "Reference" "gpio18_2"
+			(at 566.166 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2673,7 +3588,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 185.42 0)
+			(at 560.07 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2682,7 +3597,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 189.23 0)
+			(at 560.07 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2691,7 +3606,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 189.23 0)
+			(at 560.07 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,7 +3615,202 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 189.23 0)
+			(at 560.07 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "595ae0bf-f906-4da7-8aa8-127e839c372f")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio18_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 255.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cbbd4691-160c-48be-b287-5ac0223c137c")
+		(property "Reference" "gpio2_2"
+			(at 565.404 255.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e13a253-a63d-43f6-97a2-bedd1fb921b1")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio2_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 245.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "da9326ad-8754-4edd-acf6-49283d1c9892")
+		(property "Reference" "gpio5_2"
+			(at 565.658 244.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e00fac4c-0f07-4e0b-b8e6-a016bd4c981f")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio5_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 189.23 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dae68609-d329-481b-88cc-d534afbbe830")
+		(property "Reference" "gpio23_1"
+			(at 500.888 189.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2729,7 +3839,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dba16452-7122-4e7a-b115-9e3ea3ddaf86")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 521.97 238.506 0)
 			(effects
 				(font
@@ -2838,7 +3948,7 @@
 		(instances
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2846,15 +3956,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 173.99 180)
+		(at 560.07 240.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e278413d-d91b-4864-b833-cda3cee06def")
-		(property "Reference" "gpio18_1"
-			(at 496.824 173.99 0)
+		(uuid "dbdafca1-b1f0-4afa-89ee-15103523a85f")
+		(property "Reference" "gpio19_2"
+			(at 566.166 239.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2862,7 +3972,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 170.18 0)
+			(at 560.07 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2871,7 +3981,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 173.99 0)
+			(at 560.07 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2880,7 +3990,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 173.99 0)
+			(at 560.07 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,7 +3999,202 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 173.99 0)
+			(at 560.07 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef4ed9ae-6130-4656-925e-b5b29ad90dc6")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio19_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 252.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0326d96-0768-4ba4-99cb-81b9c96be30b")
+		(property "Reference" "gpio4_2"
+			(at 565.404 252.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c3711938-b7f4-4c4e-a951-a3c0ae718a15")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio4_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 257.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e21da840-d1f4-42c6-ac9b-670c0c597bfd")
+		(property "Reference" "gpio15_2"
+			(at 566.166 257.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b4cb0705-c75c-4c4c-a5bb-320a2c2e084a")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "gpio15_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 173.99 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e278413d-d91b-4864-b833-cda3cee06def")
+		(property "Reference" "gpio18_1"
+			(at 500.634 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +4216,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 191.77 180)
+		(at 506.73 191.77 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2919,7 +4224,7 @@
 		(dnp no)
 		(uuid "e39df420-9079-435d-bed4-2c1159b1660e")
 		(property "Reference" "pin_x1"
-			(at 498.348 191.516 0)
+			(at 502.158 191.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2927,7 +4232,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 187.96 0)
+			(at 506.73 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +4241,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 191.77 0)
+			(at 506.73 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +4250,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 191.77 0)
+			(at 506.73 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +4259,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 191.77 0)
+			(at 506.73 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,6 +4274,71 @@
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "pin_x1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 222.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4b37591-b879-4e41-8f25-747219a22d56")
+		(property "Reference" "pin_x7"
+			(at 564.896 222.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "650e29db-5b5f-4f67-9daf-fdff93b362cb")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "pin_x7")
 					(unit 1)
 				)
 			)
@@ -3107,7 +4477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecfcec7c-fb86-4ade-8416-06842648f125")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 544.83 238.76 0)
 			(effects
 				(font
@@ -3216,7 +4586,7 @@
 		(instances
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -3224,15 +4594,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 502.92 199.39 180)
+		(at 560.07 217.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ffbadbf4-88b3-405e-af45-eed64d2f78f4")
-		(property "Reference" "pin_x4"
-			(at 498.094 199.136 0)
+		(uuid "fcf80533-03d0-430d-a469-180463ebc398")
+		(property "Reference" "pin_x9"
+			(at 564.896 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3240,7 +4610,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 502.92 195.58 0)
+			(at 560.07 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3249,7 +4619,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
-			(at 502.92 199.39 0)
+			(at 560.07 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3258,7 +4628,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 502.92 199.39 0)
+			(at 560.07 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3267,7 +4637,137 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 502.92 199.39 0)
+			(at 560.07 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be707054-05aa-4b51-9c03-beac9a11f16d")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "pin_x9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 560.07 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe4d3f79-1102-4fc5-95af-8b0a5927ccac")
+		(property "Reference" "pin_x6"
+			(at 564.896 225.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 560.07 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 560.07 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 560.07 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 560.07 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6cd21f4e-e1f2-49de-877c-6599eb6805e0")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "pin_x6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 506.73 199.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffbadbf4-88b3-405e-af45-eed64d2f78f4")
+		(property "Reference" "pin_x4"
+			(at 501.904 199.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 506.73 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm"
+			(at 506.73 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 506.73 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 506.73 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
