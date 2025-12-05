@@ -1,0 +1,38 @@
+ESP32-wroom-32 high resolution pinout and specs: 
+https://mischianti.org/esp32-wroom-32-high-resolution-pinout-and-specs/ 
+
+ESP32-S high resolution pinout and specs:
+https://mischianti.org/esp32-s-high-resolution-pinout-and-specs/ 
+
+Uso de regulador de 3.3 V: 
+https://www.youtube.com/watch?v=6_w2idqp8N4 
+
+Fuente con varias salidas: 
+https://www.youtube.com/watch?v=8g706q68Rlo 
+
+Fuente con reguladores: 
+https://www.youtube.com/watch?v=5hplesiznz8 
+
+Fuente lineal estabilizada con zener: 
+https://www.youtube.com/watch?v=eATKEOlqjkw&list=PLb_ph_WdlLDn2POke4lOCf0P1KuIKYr6m 
+
+Fuente lineal con limitación de corriente: 
+https://www.youtube.com/watch?v=b6tooq-_eaw 
+
+Primer video de la serie de videos sobre fuentes: 
+https://www.youtube.com/watch?v=-zla22UxZE4 
+
+Mouser distribuidor a nivel mundial y con presencia en Costa Rica: 
+https://www.mouser.co.cr/ 
+
+Pedido a PCBway: 
+https://www.youtube.com/watch?v=p3DBzI95Zmw 
+
+Proyecto de referencia: 
+https://www.youtube.com/watch?v=F42O_dKGqFA 
+
+Opción para microcontrolador: 
+https://mischianti.org/esp32-wroom-32-esp32-s-flash-pinout-specs-and-ide-configuration-1/ 
+
+Simulador de circuitos: 
+https://www.cirkitdesigner.com/ 
