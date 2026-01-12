@@ -13,7 +13,9 @@ Mejoras requeridas:
 El hardware se debe integrar; los modulos de relés y fuente de poder en una sola tarjeta
 Si se necesita hacer algun ajuste al horario de funcionamiento se busca poder hacerlo sin necesidad de abrir el panel, preferiblemente desde una laptop
 
+Se requiere que con el control remoto se pueda bloquear o desbloquear completamente independientemente de presencia de personas
 
+Buscar una alternativa a los controles remotos y receptores actuales
 
 Soluciones propuestas:
 

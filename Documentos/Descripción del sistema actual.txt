@@ -15,7 +15,7 @@ Al detectar que una persona se acerca a las puertas (sensores de proximidad) las
 Si se detecta la persona pero esta no abre la puerta, despues de 5 segundo las puertas se vuelven a bloquear
 Si la persona abre la puerta, cuando la puerta regresa a su posición (cerrada) esta se vuelve a bloquear
 Lo anterior se cumple para horario de trabajo (9am a 5pm) de lo contrario solo permite salir pero no permite entrar
-Con el control remoto el cual tiene varios botones se pueden enviar comando para liberar o bloquear puertas, asi como para enviar señales de alerta a seguridad
+Con el control remoto el cual tiene varios botones se pueden enviar comando para bloquear puertas, asi como para enviar señales de alerta a seguridad
 
 
 
