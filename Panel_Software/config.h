@@ -19,7 +19,8 @@
 #define PIN_RELAY_4       23
 
 // ================= GENERAL CONFIG =================
-#define INPUT_ACTIVE_STATE   LOW    // Botones con pull-up
-#define OUTPUT_ACTIVE_STATE  HIGH   // Relé activo en HIGH
+#define INPUT_ACTIVE_STATE   HIGH    // Botones activos en HIGH
+#define OUTPUT_ACTIVE_STATE  HIGH    // Relé activo en HIGH
+#define UNLOCK_TIMEOUT_MS 5000       // 5 segundos
 
 #endif

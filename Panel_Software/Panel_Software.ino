@@ -1,9 +1,10 @@
 #include <Arduino.h>
 
-#include "config/config.h"
-#include "io/inputs.h"
-#include "io/outputs.h"
-#include "system/system_state.h"
+#include "config.h"
+#include "inputs.h"
+#include "outputs.h"
+#include "system_state.h"
+#include "logic.h"
 
 void setup() {
   initInputs();
