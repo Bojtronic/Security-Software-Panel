@@ -8,15 +8,15 @@
 #define PIN_SENSOR_IN     34   // Sensor de entrada
 #define PIN_SENSOR_OUT    35   // Sensor de salida
 
-#define PIN_BUTTON_1      14
+#define PIN_BUTTON_1      26
 #define PIN_BUTTON_2      27
-#define PIN_BUTTON_3      26
+#define PIN_BUTTON_3      14
 
 // Salidas digitales
-#define PIN_RELAY_1       25
-#define PIN_RELAY_2       33
-#define PIN_RELAY_3       32
-#define PIN_RELAY_4       23
+#define PIN_RELAY_1       23
+#define PIN_RELAY_2       32
+#define PIN_RELAY_3       33
+#define PIN_RELAY_4       25
 
 // ================= GENERAL CONFIG =================
 #define INPUT_ACTIVE_STATE   HIGH    // Botones activos en HIGH
