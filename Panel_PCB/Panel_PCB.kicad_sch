@@ -11797,7 +11797,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1000"
 			(at 560.07 378.46 90)
 			(effects
 				(font
@@ -12632,7 +12632,7 @@
 				)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "50"
 			(at 387.35 405.13 90)
 			(effects
 				(font
@@ -12640,7 +12640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 387.096 409.956 90)
 			(effects
 				(font
@@ -12770,7 +12770,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1000"
 			(at 633.73 378.46 90)
 			(effects
 				(font
@@ -14076,7 +14076,7 @@
 				)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "50"
 			(at 459.74 405.13 90)
 			(effects
 				(font
@@ -14084,7 +14084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 459.486 409.956 90)
 			(effects
 				(font
@@ -14144,7 +14144,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1000"
 			(at 416.56 378.46 90)
 			(effects
 				(font
@@ -14744,7 +14744,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "1000"
 			(at 488.95 378.46 90)
 			(effects
 				(font
@@ -14884,7 +14884,7 @@
 				)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "50"
 			(at 604.52 405.13 90)
 			(effects
 				(font
@@ -14892,7 +14892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 604.266 409.956 90)
 			(effects
 				(font
@@ -15874,7 +15874,7 @@
 				)
 			)
 		)
-		(property "Value" "1000"
+		(property "Value" "50"
 			(at 530.86 405.13 90)
 			(effects
 				(font
@@ -15882,7 +15882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 530.606 409.956 90)
 			(effects
 				(font
