@@ -103,7 +103,7 @@ El nuevo sistema mantiene la lógica actual:
 
 -   🔒 Bloqueo total (anula sensores) (C)
 -   🔓 Liberación total (anula sensores) (A)
--   🚨 Señal de emergencia: (C-D) ambos
+-   🚨 Señal de emergencia: (B-D) ambos
     -   Activación de luz externa
     -   Notificación al centro de monitoreo
 
