@@ -4582,9 +4582,9 @@
 		)
 		(uuid "4f56e975-94c0-4b01-a8a7-bce440fdc12a")
 	)
-	(text "Debido a los diodos anteriores \nse debe virificar si hay 12V exactos"
+	(text "Con base en pruebas, aqui hay 11 VDC"
 		(exclude_from_sim no)
-		(at 309.626 236.982 0)
+		(at 309.88 244.602 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4845,6 +4845,12 @@
 		(uuid "43db0b33-692e-45a8-8416-02c0888a414f")
 	)
 	(junction
+		(at 300.99 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "470b62bc-6888-4562-9cf3-3a4d8d6bcb7e")
+	)
+	(junction
 		(at 482.6 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4993,12 +4999,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2e28f6e-8d84-45e4-bb43-c0f297e34414")
-	)
-	(junction
-		(at 300.99 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9e82bcf-334c-4469-a8d0-d5a6dd4b0b1c")
 	)
 	(junction
 		(at 468.63 193.04)
@@ -7055,6 +7055,17 @@
 	)
 	(wire
 		(pts
+			(xy 288.29 247.65) (xy 300.99 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "7035e828-9d00-4646-b664-130c4f8406cc")
+	)
+	(wire
+		(pts
 			(xy 224.79 182.88) (xy 224.79 200.66)
 		)
 		(stroke
@@ -7573,17 +7584,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 247.65) (xy 292.1 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "93e7f5e7-a5ba-430c-9e0d-6e5430d62a07")
-	)
-	(wire
-		(pts
 			(xy 482.6 50.8) (xy 482.6 58.42)
 		)
 		(stroke
@@ -7591,17 +7591,6 @@
 			(type default)
 		)
 		(uuid "943f2dac-8c31-42c9-8fe3-2d692d00920e")
-	)
-	(wire
-		(pts
-			(xy 299.72 247.65) (xy 300.99 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "94ff34cc-1b1f-457d-8b49-e13a6852048c")
 	)
 	(wire
 		(pts
@@ -10140,74 +10129,6 @@
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 295.91 247.65 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b7aab2d-6918-4b2a-9bb1-1bd8998f5772")
-		(property "Reference" "R2"
-			(at 295.91 241.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20 Ω 10W"
-			(at 295.91 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P25.40mm_Horizontal"
-			(at 296.164 246.634 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 295.91 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 295.91 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "619f76c1-fc90-4dd0-ab24-b231e2fdedc8")
-		)
-		(pin "1"
-			(uuid "b7508980-a6bf-450a-ad07-01a903eabec8")
-		)
-		(instances
-			(project "Panel_PCB"
-				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
-					(reference "R2")
 					(unit 1)
 				)
 			)
