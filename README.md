@@ -101,9 +101,9 @@ El nuevo sistema mantiene la lógica actual:
 
 ### Funcionalidades requeridas:
 
--   🔒 Bloqueo total (anula sensores)
--   🔓 Liberación total (anula sensores)
--   🚨 Señal de emergencia:
+-   🔒 Bloqueo total (anula sensores) (C)
+-   🔓 Liberación total (anula sensores) (A)
+-   🚨 Señal de emergencia: (C-D) ambos
     -   Activación de luz externa
     -   Notificación al centro de monitoreo
 
