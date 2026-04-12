@@ -4532,7 +4532,7 @@
 		)
 		(uuid "08f5c656-cbc6-40e7-a1eb-e9a729964949")
 	)
-	(text "Puerta 2"
+	(text "Luz emergencia"
 		(exclude_from_sim no)
 		(at 488.95 483.362 0)
 		(effects
@@ -4542,7 +4542,7 @@
 		)
 		(uuid "149727c3-920d-406f-b647-32fade5cf322")
 	)
-	(text "Puerta 1"
+	(text "Puerta"
 		(exclude_from_sim no)
 		(at 416.306 484.124 0)
 		(effects
@@ -4562,7 +4562,7 @@
 		)
 		(uuid "29cb9c7e-994a-47e5-b27b-3778a0edc32e")
 	)
-	(text "Luz emergencia"
+	(text "Señal panico"
 		(exclude_from_sim no)
 		(at 560.578 483.108 0)
 		(effects
@@ -4633,7 +4633,7 @@
 		)
 		(uuid "993cc471-f732-4f9d-9c2a-e31c200b1a1c")
 	)
-	(text "Señal panico"
+	(text "AUX\n"
 		(exclude_from_sim no)
 		(at 634.746 482.854 0)
 		(effects
@@ -7605,6 +7605,17 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 53.34) (xy 356.87 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "95ec8f19-9e93-4182-9dce-a50d09dbfcea")
+	)
+	(wire
+		(pts
 			(xy 542.29 339.09) (xy 471.17 339.09)
 		)
 		(stroke
@@ -7915,16 +7926,6 @@
 			(color 253 0 0 1)
 		)
 		(uuid "a6b9c7dd-39c0-4be0-b905-a7f52912bba3")
-	)
-	(wire
-		(pts
-			(xy 356.87 53.34) (xy 356.87 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7e6344b-59a3-4325-8704-666111931ea1")
 	)
 	(wire
 		(pts
@@ -8404,17 +8405,6 @@
 			(color 255 0 0 1)
 		)
 		(uuid "d3d9512f-22e0-4d6f-909e-d6d4fa0368c5")
-	)
-	(wire
-		(pts
-			(xy 356.87 62.23) (xy 356.87 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "d7029b4c-c47a-488e-adb1-cbede921eae0")
 	)
 	(wire
 		(pts
@@ -13010,93 +13000,6 @@
 			(project ""
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "BT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4001")
-		(at 356.87 58.42 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9d9ede6d-235b-432b-93c4-c314c2925ba2")
-		(property "Reference" "D9"
-			(at 360.426 57.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4001"
-			(at 362.712 55.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 356.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 356.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "50V 1A General Purpose Rectifier Diode, DO-41"
-			(at 356.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 356.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 356.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc7f7605-6a05-4798-a8db-1da4cb404a8a")
-		)
-		(pin "2"
-			(uuid "f49fc22a-eb97-4273-9524-fa598e417c75")
-		)
-		(instances
-			(project "Panel_PCB"
-				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
-					(reference "D9")
 					(unit 1)
 				)
 			)
