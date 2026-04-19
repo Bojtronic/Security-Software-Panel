@@ -4,9 +4,10 @@
 DigitalInputs inputs = {
   .sensorIn = false,
   .sensorOut = false,
-  .button1 = false,
-  .button2 = false,
-  .button3 = false
+  .buttona = false,
+  .buttonb = false,
+  .buttonc = false,
+  .buttond = false
 };
 
 void initInputs() {

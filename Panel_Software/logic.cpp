@@ -19,13 +19,13 @@ void updateLogic() {
   unsigned long now = millis();
 
   // ---------- CAMBIO DE MODO POR BOTONES ----------
-  if (inputs.button1) {
+  if (inputs.buttona) {
     currentMode = OperationMode::FORCE_BLOCK;
   }
-  else if (inputs.button2) {
+  else if (inputs.buttonb) {
     currentMode = OperationMode::FORCE_UNLOCK;
   }
-  else if (inputs.button3) {
+  else if (inputs.buttonc) {
     currentMode = OperationMode::NORMAL;
   }
 

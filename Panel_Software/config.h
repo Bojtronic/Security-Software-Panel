@@ -33,7 +33,7 @@
 #define UNLOCK_TIMEOUT_MS       5000    // 5 segundos
 
 // ================= HORARIO =================
-#define AUTO_LOCK_HOUR_ON   18   // 6 PM
-#define AUTO_LOCK_HOUR_OFF   8   // 8 AM
+#define AUTO_LOCK_HOUR_ON       18      // 6 PM
+#define AUTO_LOCK_HOUR_OFF      8       // 8 AM
 
 #endif
