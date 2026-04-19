@@ -8,9 +8,10 @@
 #define PIN_SENSOR_IN       34   // Sensor de entrada
 #define PIN_SENSOR_OUT      35   // Sensor de salida
 
-#define PIN_BUTTON_1        26    // Boton del control remoto para DESBLOQUEAR la puerta (A)
-#define PIN_BUTTON_2        27    // Boton del control remoto para BLOQUEAR la puerta (C)
-#define PIN_BUTTON_3        14    // Boton del control remoto para EMERGENCIA (B - D)
+#define PIN_BUTTON_A        26    // Boton del control remoto para DESBLOQUEAR (A) la puerta 
+#define PIN_BUTTON_B        27    // Boton del control remoto para RESET (B) para volver a funcionar normal despues de bloquear, desbloquear o activar emergencia
+#define PIN_BUTTON_C        14    // Boton del control remoto para BLOQUEAR (C) la puerta
+#define PIN_BUTTON_D        13    // Boton del control remoto para EMERGENCIA (D)   -  se debe verificar la funcionalidad de este pin sino cambiar a 13, 19 o 4
 
 // Salidas digitales
 #define PIN_RELAY_1         23    // Contacto para BLOQUEAR y DESBLOQUEAR la puerta
@@ -24,11 +25,15 @@
 
 // Obtener hora mediante I2C
 #define PIN_SDA             21    // Pin 5 del chip DS1307
-#define PIN_SCL             21    // Pin 6 del chip DS1307
+#define PIN_SCL             22    // Pin 6 del chip DS1307
 
 // ================= GENERAL CONFIG =================
 #define INPUT_ACTIVE_STATE      HIGH    // Botones activos en HIGH
 #define OUTPUT_ACTIVE_STATE     HIGH    // Relé activo en HIGH
 #define UNLOCK_TIMEOUT_MS       5000    // 5 segundos
+
+// ================= HORARIO =================
+#define AUTO_LOCK_HOUR_ON   18   // 6 PM
+#define AUTO_LOCK_HOUR_OFF   8   // 8 AM
 
 #endif

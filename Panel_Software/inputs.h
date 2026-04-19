@@ -5,11 +5,12 @@
 
 // Estructura para entradas digitales
 struct DigitalInputs {
-  bool sensorIn;
-  bool sensorOut;
-  bool button1;
-  bool button2;
-  bool button3;
+  bool sensorIn  = false;
+  bool sensorOut = false;
+  bool buttona   = false;
+  bool buttonb   = false;
+  bool buttonc   = false;
+  bool buttond   = false;
 };
 
 extern DigitalInputs inputs;

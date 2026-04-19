@@ -3,20 +3,19 @@
 #include "config.h"
 #include "inputs.h"
 #include "outputs.h"
-#include "system_state.h"
-#include "logic.h"
+#include "rtc.h"
+
+//#include "system_state.h"
+//#include "logic.h"
 
 void setup() {
   initInputs();
   initOutputs();
-  initSystemState();
+  initRTC();
 }
 
 void loop() {
   readInputs();
-
-  // Aquí irá la lógica del sistema (FSM / reglas)
-  // Por ahora solo estructura
-
-  updateOutputs();
+  readRTC();
+  processOutputs();
 }

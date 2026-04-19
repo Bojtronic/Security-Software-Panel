@@ -1,25 +1,19 @@
 #ifndef OUTPUTS_H
 #define OUTPUTS_H
 
-#include <Arduino.h>
+#include "config.h"
 
-// Estructura para salidas digitales
 struct DigitalOutputs {
-  bool relay1;
-  bool relay2;
-  bool relay3;
-  bool relay4;
+  bool relay1 = false;
+  bool relay2 = false;
+  bool relay3 = false;
+  bool relay4 = false;
 };
 
 extern DigitalOutputs outputs;
 
-// Inicialización
 void initOutputs();
-
-// Aplicar estados a hardware
+void processOutputs();
 void updateOutputs();
-
-// Funciones individuales (opcional)
-void setRelay(uint8_t relayNumber, bool state);
 
 #endif

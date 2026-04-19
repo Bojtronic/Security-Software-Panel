@@ -4552,9 +4552,9 @@
 		)
 		(uuid "1b2ab756-d759-4f5a-b41a-da6a057d378d")
 	)
-	(text "Boton 1"
+	(text "Boton A (1)"
 		(exclude_from_sim no)
-		(at 596.138 178.562 0)
+		(at 601.726 178.562 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4603,7 +4603,7 @@
 		)
 		(uuid "7a95e0bd-622d-4c03-abcc-56aa112db7b4")
 	)
-	(text "Boton 2"
+	(text "Boton B (2)"
 		(exclude_from_sim no)
 		(at 596.392 202.946 0)
 		(effects
@@ -4613,7 +4613,7 @@
 		)
 		(uuid "81875487-d490-49be-8f14-28470b451074")
 	)
-	(text "Boton 3"
+	(text "Boton C (3)"
 		(exclude_from_sim no)
 		(at 595.122 227.33 0)
 		(effects
@@ -4663,6 +4663,16 @@
 			)
 		)
 		(uuid "a938acfb-0e59-497c-bc62-a7b9b6866dcb")
+	)
+	(text "Boton D (4)"
+		(exclude_from_sim no)
+		(at 591.82 250.444 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b071753a-9c5c-4e22-a851-dbef19340792")
 	)
 	(text "Sensor salida"
 		(exclude_from_sim no)
@@ -4747,12 +4757,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "194a5949-484b-4b5b-80d2-537b81a3bb3a")
-	)
-	(junction
-		(at 535.94 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d03b2d7-49e4-479f-8538-45b1b236baef")
 	)
 	(junction
 		(at 411.48 154.94)
@@ -4905,6 +4909,12 @@
 		(uuid "6705d5c7-33d5-437e-9b18-5ad4b746c208")
 	)
 	(junction
+		(at 528.32 193.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70a21e8b-b271-442f-8d43-fdab23d36960")
+	)
+	(junction
 		(at 308.61 267.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4951,6 +4961,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "845c2db6-1b54-406c-a68e-6fda2fbac89f")
+	)
+	(junction
+		(at 478.79 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86a2954a-9866-4c63-8272-746cbc8ea735")
 	)
 	(junction
 		(at 433.07 193.04)
@@ -5097,6 +5113,12 @@
 		(uuid "bcf39ef2-e330-4e6f-9313-0b725c9e15d7")
 	)
 	(junction
+		(at 478.79 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bea5fc4e-69c6-4dfd-aca5-f39ac6443bf5")
+	)
+	(junction
 		(at 687.07 311.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5167,12 +5189,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1ffa863-0b65-4340-9de9-4f2600a9db9f")
-	)
-	(junction
-		(at 535.94 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d3ec4490-0181-4925-81f7-17e86a937a2f")
 	)
 	(junction
 		(at 468.63 177.8)
@@ -5278,6 +5294,16 @@
 	)
 	(wire
 		(pts
+			(xy 478.79 129.54) (xy 613.41 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034cfe6c-5d95-4d28-866a-0c82577eff36")
+	)
+	(wire
+		(pts
 			(xy 154.94 167.64) (xy 154.94 247.65)
 		)
 		(stroke
@@ -5342,7 +5368,7 @@
 	)
 	(wire
 		(pts
-			(xy 435.61 154.94) (xy 535.94 154.94)
+			(xy 435.61 154.94) (xy 478.79 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5381,6 +5407,17 @@
 			(color 251 0 0 1)
 		)
 		(uuid "0a680598-9723-42f7-8850-0e10dfe15915")
+	)
+	(wire
+		(pts
+			(xy 548.64 193.04) (xy 528.32 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "0b5a6d32-c061-4e86-a202-ea6972510af7")
 	)
 	(wire
 		(pts
@@ -5539,6 +5576,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "149043d5-b71e-4ff6-9ec3-9866d73b12b6")
+	)
+	(wire
+		(pts
+			(xy 478.79 154.94) (xy 610.87 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15084e18-5aa1-44e7-b9fb-da071377b38a")
 	)
 	(wire
 		(pts
@@ -6230,6 +6277,16 @@
 	)
 	(wire
 		(pts
+			(xy 596.9 270.51) (xy 532.13 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "468e50ec-97a8-4af0-b4bc-0c492af26714")
+	)
+	(wire
+		(pts
 			(xy 534.67 408.94) (xy 537.21 408.94)
 		)
 		(stroke
@@ -6737,7 +6794,7 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 129.54) (xy 535.94 129.54)
+			(xy 414.02 129.54) (xy 478.79 129.54)
 		)
 		(stroke
 			(width 0)
@@ -6906,7 +6963,7 @@
 	)
 	(wire
 		(pts
-			(xy 468.63 177.8) (xy 535.94 177.8)
+			(xy 468.63 177.8) (xy 478.79 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7117,6 +7174,16 @@
 			(type default)
 		)
 		(uuid "72825901-08a4-4b96-8e20-b0d5310dde70")
+	)
+	(wire
+		(pts
+			(xy 551.18 252.73) (xy 596.9 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7407c50d-f237-4077-a145-c0e717007d40")
 	)
 	(wire
 		(pts
@@ -7522,6 +7589,16 @@
 	)
 	(wire
 		(pts
+			(xy 551.18 107.95) (xy 551.18 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "908b572c-4a39-4286-81ee-973279aee902")
+	)
+	(wire
+		(pts
 			(xy 308.61 247.65) (xy 308.61 255.27)
 		)
 		(stroke
@@ -7851,16 +7928,6 @@
 			(type default)
 		)
 		(uuid "a1ccadf4-e3bc-4fa8-8468-73c4d0b86279")
-	)
-	(wire
-		(pts
-			(xy 535.94 129.54) (xy 613.41 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1ef5315-5864-4422-8f64-e866011beac9")
 	)
 	(wire
 		(pts
@@ -8312,7 +8379,7 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 154.94) (xy 535.94 129.54)
+			(xy 478.79 154.94) (xy 478.79 129.54)
 		)
 		(stroke
 			(width 0)
@@ -8589,16 +8656,6 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 154.94) (xy 610.87 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e19366b2-74ef-4db1-ae17-fc3bcbc53a27")
-	)
-	(wire
-		(pts
 			(xy 547.37 285.75) (xy 547.37 344.17)
 		)
 		(stroke
@@ -8671,6 +8728,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "e8400761-0b2a-4604-b2db-81a57097b346")
+	)
+	(wire
+		(pts
+			(xy 596.9 252.73) (xy 596.9 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8952aa8-4cd5-43ba-bf37-4eeabcaf3399")
 	)
 	(wire
 		(pts
@@ -8902,7 +8969,18 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 177.8) (xy 535.94 154.94)
+			(xy 548.64 107.95) (xy 548.64 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "f6a12345-542f-4036-ba12-f2b714635737")
+	)
+	(wire
+		(pts
+			(xy 478.79 177.8) (xy 478.79 154.94)
 		)
 		(stroke
 			(width 0)
@@ -9459,6 +9537,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 548.64 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "207dfde6-d8fb-42d6-bc71-cae1fc418ffc")
+		(property "Reference" "J14"
+			(at 547.624 97.028 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Boton D (4)"
+			(at 544.068 99.314 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+			(at 548.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 548.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 548.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d01084f-4003-46b5-b27d-bade0be46e26")
+		)
+		(pin "1"
+			(uuid "b8a6434a-936a-40d6-888c-eda77e28f39e")
+		)
+		(instances
+			(project "Panel_PCB"
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_US")
 		(at 468.63 185.42 0)
 		(unit 1)
@@ -9925,7 +10072,7 @@
 		(dnp no)
 		(uuid "3277d526-6182-4cbd-ad7b-4bdb691a0c70")
 		(property "Reference" "J6"
-			(at 496.316 101.854 90)
+			(at 505.968 97.028 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9933,8 +10080,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Boton 2"
-			(at 496.316 104.394 90)
+		(property "Value" "Boton B (2)"
+			(at 502.158 99.314 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11332,7 +11479,7 @@
 		(dnp no)
 		(uuid "622ca600-d1ab-4769-908a-57df5ae6ddf6")
 		(property "Reference" "J7"
-			(at 517.906 101.854 90)
+			(at 528.574 96.774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,8 +11487,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Boton 3"
-			(at 517.906 104.394 90)
+		(property "Value" "Boton C (3)"
+			(at 524.51 99.314 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12198,7 +12345,7 @@
 		(dnp no)
 		(uuid "7664522c-74d9-4147-b6e3-0f14bc8e5a8d")
 		(property "Reference" "J5"
-			(at 473.456 101.854 90)
+			(at 483.616 97.028 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,8 +12353,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Boton 1"
-			(at 473.456 104.394 90)
+		(property "Value" "Boton A (1)"
+			(at 480.06 99.568 90)
 			(effects
 				(font
 					(size 1.27 1.27)
