@@ -11,13 +11,13 @@ DigitalInputs inputs = {
 };
 
 void initInputs() {
-  pinMode(PIN_SENSOR_IN, INPUT);
-  pinMode(PIN_SENSOR_OUT, INPUT);
+  pinMode(PIN_SENSOR_IN, INPUT_PULLDOWN);
+  pinMode(PIN_SENSOR_OUT, INPUT_PULLDOWN);
 
-  pinMode(PIN_BUTTON_A, INPUT);
-  pinMode(PIN_BUTTON_B, INPUT);
-  pinMode(PIN_BUTTON_C, INPUT);
-  pinMode(PIN_BUTTON_D, INPUT);
+  pinMode(PIN_BUTTON_A, INPUT_PULLDOWN);
+  pinMode(PIN_BUTTON_B, INPUT_PULLDOWN);
+  pinMode(PIN_BUTTON_C, INPUT_PULLDOWN);
+  pinMode(PIN_BUTTON_D, INPUT_PULLDOWN);
 }
 
 void readInputs() {
