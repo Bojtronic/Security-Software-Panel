@@ -13,15 +13,28 @@
 #define PIN_BUTTON_C        14    // Boton del control remoto para BLOQUEAR (C) la puerta
 #define PIN_BUTTON_D        13    // Boton del control remoto para EMERGENCIA (D)   -  se debe verificar la funcionalidad de este pin sino cambiar a 13, 19 o 4
 
+//#define PIN_BUTTON_A        26
+//#define PIN_BUTTON_B        27
+//#define PIN_BUTTON_C        25
+//#define PIN_BUTTON_D        33
+
 // Salidas digitales
 #define PIN_RELAY_1         23    // Contacto para BLOQUEAR y DESBLOQUEAR la puerta
 #define PIN_RELAY_2         32    // Contacto para la LUZ DE EMERGENCIA afuera de la sucursal
 #define PIN_RELAY_3         33    // Contacto para la SEÑAL DE EMERGENCIA que se envia a monitoreo
 #define PIN_RELAY_4         25    // Contacto adicional
 
+//#define PIN_RELAY_1         23
+//#define PIN_RELAY_2         32
+//#define PIN_RELAY_3         19
+//#define PIN_RELAY_4         18
+
 // Señales digitales
 #define PIN_BATTERY_LOW     39    // Indica que la bateria está descargada
 #define PIN_BATTERY_CHARGE  18    // Activa la carga de la bateria
+
+//#define PIN_BATTERY_LOW     39
+//#define PIN_BATTERY_CHARGE  4
 
 // Obtener hora mediante I2C
 #define PIN_SDA             21    // Pin 5 del chip DS1307
