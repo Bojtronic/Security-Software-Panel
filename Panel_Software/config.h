@@ -43,7 +43,8 @@
 // ================= GENERAL CONFIG =================
 #define INPUT_ACTIVE_STATE      HIGH    // Botones activos en HIGH
 #define OUTPUT_ACTIVE_STATE     HIGH    // Relé activo en HIGH
-#define UNLOCK_TIMEOUT_MS       5000    // 5 segundos
+#define UNLOCK_TIMEOUT_MS       5000    // 5 segundos (5000 ms)
+#define CHARGE_TIMEOUT_MS       7200000 // 2 horas (7200000 ms) 2*60*60*1000
 
 // ================= HORARIO =================
 #define AUTO_LOCK_HOUR_ON       18      // 6 PM

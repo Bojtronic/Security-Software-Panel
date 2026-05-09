@@ -15,6 +15,9 @@ RelayMode relayMode = AUTO_MODE;
 RelayMode previousMode = AUTO_MODE;
 
 unsigned long unlockTimer = 0;
+unsigned long chargeTimer = 0;
+
+bool charging = false;
 bool batteryLow = false;
 bool unlockActive = false;
 
@@ -146,10 +149,30 @@ void processOutputs()
 
   if (batteryLow)
   {
-    digitalWrite(PIN_BATTERY_CHARGE, HIGH);
+    // Iniciar carga solo una vez
+    if (!charging)
+    {
+      charging = true;
+      chargeTimer = millis();
+
+      digitalWrite(PIN_BATTERY_CHARGE, HIGH);
+    }
+
+    // Mantener carga durante el tiempo definido
+    if (millis() - chargeTimer >= CHARGE_TIMEOUT_MS)
+    {
+      digitalWrite(PIN_BATTERY_CHARGE, LOW);
+
+      charging = false;
+      chargeTimer = 0;
+    }
   }
   else
   {
+    // batería no baja
     digitalWrite(PIN_BATTERY_CHARGE, LOW);
+
+    charging = false;
+    chargeTimer = 0;
   }
 }
