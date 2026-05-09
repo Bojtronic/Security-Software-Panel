@@ -147,18 +147,18 @@ void processOutputs()
 
   // -------------------------------------------------------------------------------------
 
-  if (batteryLow)
+  // Iniciar carga
+  if (batteryLow && !charging)
   {
-    // Iniciar carga solo una vez
-    if (!charging)
-    {
-      charging = true;
-      chargeTimer = millis();
+    charging = true;
+    chargeTimer = millis();
 
-      digitalWrite(PIN_BATTERY_CHARGE, HIGH);
-    }
+    digitalWrite(PIN_BATTERY_CHARGE, HIGH);
+  }
 
-    // Mantener carga durante el tiempo definido
+  // Mantener carga activa por timeout
+  if (charging)
+  {
     if (millis() - chargeTimer >= CHARGE_TIMEOUT_MS)
     {
       digitalWrite(PIN_BATTERY_CHARGE, LOW);
@@ -166,13 +166,5 @@ void processOutputs()
       charging = false;
       chargeTimer = 0;
     }
-  }
-  else
-  {
-    // batería no baja
-    digitalWrite(PIN_BATTERY_CHARGE, LOW);
-
-    charging = false;
-    chargeTimer = 0;
   }
 }
