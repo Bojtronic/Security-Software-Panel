@@ -36,3 +36,11 @@ https://mischianti.org/esp32-wroom-32-esp32-s-flash-pinout-specs-and-ide-configu
 
 Simulador de circuitos: 
 https://www.cirkitdesigner.com/ 
+
+
+Control remoto utilizado:
+https://www.microjpm.com/products/a4-channel-wireless-remote-control-433mhz/ 
+https://www.youtube.com/watch?v=Ka61JSwnMhg
+https://www.youtube.com/watch?v=XtbA622loNY 
+https://www.youtube.com/watch?v=2-PYyypXrgE  -> IMPORTANTE 
+
