@@ -6002,6 +6002,17 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 106.68) (xy 307.34 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 253 0 0 1)
+		)
+		(uuid "0f388eb0-99ac-4224-82f1-333c1f9dba9f")
+	)
+	(wire
+		(pts
 			(xy 190.5 247.65) (xy 194.31 247.65)
 		)
 		(stroke
@@ -7667,7 +7678,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 106.68) (xy 307.34 106.68)
+			(xy 187.96 106.68) (xy 251.46 106.68)
 		)
 		(stroke
 			(width 0)
@@ -15023,7 +15034,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad8dc4ed-194f-442a-9d32-ee86e336cdc5")
-		(property "Reference" "K7"
+		(property "Reference" "K6"
 			(at 199.898 112.522 0)
 			(effects
 				(font
@@ -15032,7 +15043,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SANYOU_SRD_Form_C"
+		(property "Value" "G5LE-1-E"
 			(at 191.77 115.824 0)
 			(effects
 				(font
@@ -15041,7 +15052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+		(property "Footprint" "Relay_THT:Relay_SPDT_Omron-G5LE-1"
 			(at 191.77 115.57 0)
 			(effects
 				(font
@@ -15087,7 +15098,7 @@
 		(instances
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
-					(reference "K7")
+					(reference "K6")
 					(unit 1)
 				)
 			)
@@ -16902,7 +16913,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EC2-4.5SNU"
+		(property "Value" "G6K-2P-Y"
 			(at 238.76 209.5499 0)
 			(effects
 				(font
@@ -16911,7 +16922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Kemet_EC2_NU"
+		(property "Footprint" "Relay_THT:Relay_DPDT_Omron_G6K-2P-Y"
 			(at 222.25 208.28 0)
 			(effects
 				(font
@@ -17141,6 +17152,74 @@
 			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 255.27 106.68 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f064625d-b97d-47b4-b33c-7ddcca2eefa8")
+		(property "Reference" "R29"
+			(at 255.27 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10"
+			(at 255.27 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
+			(at 255.524 105.664 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 255.27 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 255.27 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80681aeb-f9bf-4044-b0a1-26c22f857f77")
+		)
+		(pin "2"
+			(uuid "ab9e0217-232c-41a4-bbce-0eccc3b9079b")
+		)
+		(instances
+			(project ""
+				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
+					(reference "R29")
 					(unit 1)
 				)
 			)
