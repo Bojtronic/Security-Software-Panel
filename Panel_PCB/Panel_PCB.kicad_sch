@@ -5256,6 +5256,12 @@
 		(uuid "3ca3a0fa-c5cf-42eb-8dd4-d55dbd67c5bf")
 	)
 	(junction
+		(at 185.42 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d006cd2-19d2-4f38-9d2a-45542e4fbb2c")
+	)
+	(junction
 		(at 391.16 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5416,12 +5422,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f47f382-5544-4c5c-877b-f3e8c0bf2902")
-	)
-	(junction
-		(at 194.31 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "918bc89f-36e7-4771-b81a-987b468f1be6")
 	)
 	(junction
 		(at 408.94 267.97)
@@ -5610,12 +5610,6 @@
 		(uuid "cda5537d-1f86-4a27-89ca-bec9c055d8cb")
 	)
 	(junction
-		(at 194.31 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf61f5a1-7907-4b60-a777-1c7a70782d49")
-	)
-	(junction
 		(at 469.9 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5704,6 +5698,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f855e5bd-e691-4d72-8e25-d6ce1e00fa55")
+	)
+	(junction
+		(at 185.42 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8a441c3-a266-430d-b089-8e089b0891f1")
 	)
 	(junction
 		(at 641.35 80.01)
@@ -6013,7 +6013,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 247.65) (xy 194.31 247.65)
+			(xy 180.34 247.65) (xy 185.42 247.65)
 		)
 		(stroke
 			(width 0)
@@ -6170,7 +6170,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 194.31) (xy 194.31 194.31)
+			(xy 138.43 194.31) (xy 185.42 194.31)
 		)
 		(stroke
 			(width 0)
@@ -6338,7 +6338,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 247.65) (xy 182.88 247.65)
+			(xy 154.94 247.65) (xy 172.72 247.65)
 		)
 		(stroke
 			(width 0)
@@ -6496,17 +6496,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 247.65) (xy 222.25 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 253 0 0 1)
-		)
-		(uuid "2b631b0c-7d0a-425c-bb22-85536a0fd602")
-	)
-	(wire
-		(pts
 			(xy 621.03 436.88) (xy 621.03 495.3)
 		)
 		(stroke
@@ -6546,6 +6535,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "2e3cef38-df9e-47ec-9df1-6ad6acf26c43")
+	)
+	(wire
+		(pts
+			(xy 185.42 247.65) (xy 222.25 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 253 0 0 1)
+		)
+		(uuid "2e53fdda-9afb-40af-822a-31d007c55594")
 	)
 	(wire
 		(pts
@@ -8575,7 +8575,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 194.31) (xy 194.31 247.65)
+			(xy 185.42 194.31) (xy 185.42 247.65)
 		)
 		(stroke
 			(width 0)
@@ -8684,17 +8684,6 @@
 			(type default)
 		)
 		(uuid "a16e029d-c7e1-483c-bc07-3c8dcc7e164f")
-	)
-	(wire
-		(pts
-			(xy 194.31 194.31) (xy 203.2 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 253 0 0 1)
-		)
-		(uuid "a183a7e4-2459-4346-861d-6f903bc7967a")
 	)
 	(wire
 		(pts
@@ -9091,6 +9080,17 @@
 			(type default)
 		)
 		(uuid "bc09fcf6-0cab-46d5-b411-de2ed91999e2")
+	)
+	(wire
+		(pts
+			(xy 185.42 194.31) (xy 203.2 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 253 0 0 1)
+		)
+		(uuid "bcb380fd-35ea-4174-94fd-4b28b06a001e")
 	)
 	(wire
 		(pts
@@ -10899,7 +10899,7 @@
 			(uuid "7b440613-8e61-4332-8399-0c3682ab2e7d")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "Q1")
 					(unit 1)
@@ -12186,7 +12186,7 @@
 			(uuid "ac310c8c-36f8-4ce5-a1d3-03919d0f02b2")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "U8")
 					(unit 1)
@@ -12516,7 +12516,7 @@
 			(uuid "81812b85-e51e-487a-a214-2f5d3b3574e1")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "U13")
 					(unit 1)
@@ -14225,7 +14225,7 @@
 			(uuid "7180c9f2-6169-4d7c-ae82-998b44a92af0")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "C2")
 					(unit 1)
@@ -14380,7 +14380,7 @@
 			(uuid "864940cc-f1ab-4ada-833d-f2415ccd3bd9")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "D2")
 					(unit 1)
@@ -14546,7 +14546,7 @@
 			(uuid "2bdf54b1-8031-4d31-8699-a30bdd418803")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "BT1")
 					(unit 1)
@@ -14724,7 +14724,7 @@
 			(uuid "7b954e1e-2ce8-4c3d-b2bc-487ea20dc1ca")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "J12")
 					(unit 1)
@@ -15017,7 +15017,7 @@
 			(uuid "811266b2-2dae-4211-91aa-f915e9272cd3")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "R4")
 					(unit 1)
@@ -15468,7 +15468,7 @@
 			(uuid "e867f679-a9da-4362-a743-d22d036ea9c9")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "U1")
 					(unit 1)
@@ -15554,7 +15554,7 @@
 			(uuid "528108e5-04ce-4e97-85b0-3d1b7ad5d9b6")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "U12")
 					(unit 1)
@@ -15915,7 +15915,7 @@
 			(uuid "56a801d2-520d-41e1-a173-016860099806")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "J15")
 					(unit 1)
@@ -15925,7 +15925,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4001")
-		(at 186.69 247.65 180)
+		(at 176.53 247.65 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15933,7 +15933,7 @@
 		(dnp no)
 		(uuid "ce0970ce-7378-472e-998c-ec4193bf4f29")
 		(property "Reference" "D1"
-			(at 185.928 250.698 0)
+			(at 175.768 250.698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15942,7 +15942,7 @@
 			)
 		)
 		(property "Value" "1N4001"
-			(at 183.388 252.984 0)
+			(at 173.228 252.984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15951,7 +15951,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 186.69 247.65 0)
+			(at 176.53 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15960,7 +15960,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 186.69 247.65 0)
+			(at 176.53 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15969,7 +15969,7 @@
 			)
 		)
 		(property "Description" "50V 1A General Purpose Rectifier Diode, DO-41"
-			(at 186.69 247.65 0)
+			(at 176.53 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15978,7 +15978,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 186.69 247.65 0)
+			(at 176.53 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15987,7 +15987,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 247.65 0)
+			(at 176.53 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16148,7 +16148,7 @@
 			(uuid "7aa93ccf-03d1-46fd-aa23-060c46a1feaa")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "Y1")
 					(unit 1)
@@ -16922,7 +16922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Omron_G6K-2P-Y"
+		(property "Footprint" "Relay_THT:Relay_DPDT_Kemet_EC2_NU"
 			(at 222.25 208.28 0)
 			(effects
 				(font
@@ -16974,7 +16974,7 @@
 			(uuid "41935033-b0e8-43fb-ab38-2ec8315ec6f7")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "K5")
 					(unit 1)
@@ -17060,7 +17060,7 @@
 			(uuid "a3f1bd9c-f577-4f30-b6bd-e378c1aef8c9")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "D3")
 					(unit 1)
@@ -17217,7 +17217,7 @@
 			(uuid "ab9e0217-232c-41a4-bbce-0eccc3b9079b")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "R29")
 					(unit 1)
@@ -17284,7 +17284,7 @@
 			(uuid "2103a3e6-2db9-4be9-8e5a-86341b6e177f")
 		)
 		(instances
-			(project ""
+			(project "Panel_PCB"
 				(path "/f7146f60-4eeb-4a38-9050-767b0cc7f13c"
 					(reference "J1")
 					(unit 1)
