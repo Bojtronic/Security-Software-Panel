@@ -15273,10 +15273,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c09f20b6-0db2-4593-bf20-159a138b6c9d")
 		(property "Reference" "U1"
-			(at 410.21 374.65 0)
+			(at 408.94 373.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15284,7 +15283,7 @@
 			)
 		)
 		(property "Value" "TLP291"
-			(at 407.67 374.65 0)
+			(at 408.94 375.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
